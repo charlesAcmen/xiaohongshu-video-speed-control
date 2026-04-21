@@ -1,11 +1,18 @@
 // ==UserScript==
 // @name         小红书视频倍速扩展
-// @namespace    http://tampermonkey.net/
-// @version      2.1.0
+// @namespace    https://github.com/charles/xiaohongshu-video-speed-control
+// @version      1.0.0
 // @description  为小红书网页版视频播放器添加 0.1x、0.25x、2.5x、3x、5x、10x、16x 倍速选项
-// @author       You
+// @author       charles
+// @license      MIT
 // @match        https://www.xiaohongshu.com/*
+// @match        https://xiaohongshu.com/*
 // @grant        none
+// @run-at       document-end
+// @supportURL   https://github.com/charles/xiaohongshu-video-speed-control/issues
+// @homepageURL  https://github.com/charles/xiaohongshu-video-speed-control
+// @downloadURL  https://github.com/charles/xiaohongshu-video-speed-control/raw/main/xiaohongshu-video-speed-control.user.js
+// @updateURL    https://github.com/charles/xiaohongshu-video-speed-control/raw/main/xiaohongshu-video-speed-control.user.js
 // ==/UserScript==
 
 (function() {
