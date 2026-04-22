@@ -1,6 +1,6 @@
 # HTML files
 *.html
-*.htm
+# *.htm
 
 # OS files
 .DS_Store

@@ -16,9 +16,8 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 点击 Tampermonkey 图标，选择"添加新脚本"
-3. 将 `xiaohongshu-video-speed-control.user.js` 的内容复制粘贴到编辑器中
-4. 保存脚本
+2. 点击 [Greasy Fork 安装页面](https://greasyfork.org/en/scripts/574801-%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A7%86%E9%A2%91%E5%80%8D%E9%80%9F%E6%89%A9%E5%B1%95) 中的安装按钮
+3. Tampermonkey 会自动弹出确认安装提示，点击确认即可
 
 ## 使用
 
